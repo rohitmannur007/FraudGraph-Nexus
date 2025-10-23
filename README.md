@@ -1,4 +1,4 @@
-# FraudGraph-Nexus — Network‑Aware Fraud Detection (Suggested 10/10 README)
+# FraudGraph-Nexus — Network‑Aware Fraud Detection 
 
 **One‑line:** A reproducible, production‑grade graph‑ML system for detecting fraud rings and coordinated attacks using temporal graph neural networks, explainability, and streaming inference.
 
@@ -149,7 +149,5 @@ Add an accessible CONTRIBUTING.md and CODE_OF_CONDUCT.
 
 Add an OSI license (MIT/Apache‑2.0) and `LICENSE` file.
 
----
 
-*Generated suggested README to make the repo presentation and reproducibility 10/10.*
 
